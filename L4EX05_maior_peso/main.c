@@ -13,6 +13,6 @@ int main()
             PesoPacoteMaior = pesoPacote;
         }
     }
-    printf("\nO pacote mais pesado e %.2f: \n", PesoPacoteMaior);
+    printf("\nO pacote mais pesado e %.2f\n", PesoPacoteMaior);
     return 0;
 }
